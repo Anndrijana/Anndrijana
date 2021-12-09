@@ -1,29 +1,19 @@
 <h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 😁</h2>
 
-### <div align="center"> <img alt="GIF" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-good-morning-reverse.png" width="35vw" /> Welcome aboard my code station... :point_down: </div>
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 35%" /> </div>
 </br>
 
-My name is Andrijana Papić and I am a master's student at Faculty of Technical Sciences majoring in Information Systems Engineering.
+## <img alt="GIF" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-sun-glasses-gif.gif" width="35vw" /> About Me:
 
-- 🌱 I’m currently learning *Node.js*, *React.js* and... everything :sweat_smile:
+My name is *Andrijana Papić* and I am a master's student at Faculty of Technical Sciences majoring in Information Systems Engineering.
+
+- 🌱 I’m currently learning ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;, ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;, ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; and... everything :sweat_smile:
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-andrijanapapic98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrijanapapic98@gmail.com)](mailto:andrijanapapic98@gmail.com) or [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrijana-papi%C4%87-7b3643227/) <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45vw" />
 - ⚡ Fun facts:
 <div align="center"> You know you're a true programmer when you spend a more day to find the error and then fix it with only one line of code. </div>
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
-• <i>“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   </i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
-
-
-
-## 🛠️ 👩‍💻 Languages & Tools:
+ ## 🛠️ 👩‍💻 Languages & Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
@@ -37,8 +27,10 @@ My name is Andrijana Papić and I am a master's student at Faculty of Technical 
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
 
-## 📉 Some of my stats:
+ ## 📉 Some of my stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anndrijana&exclude_repo=PPPOSegmentation&theme=highcontrast)
 
 :point_right: Visitors count: ![Visitor Count](https://profile-counter.glitch.me/Anndrijana/count.svg)
+
+### <img alt="GIF" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-good-morning-reverse.png" width="35vw" /> Welcome aboard my code station... :point_down: 
