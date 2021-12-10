@@ -14,7 +14,7 @@
 
 > *You know you're a true programmer when you spend a day (or more day <img alt="GIF" src="https://github.com/Denver-Devs/emojis/blob/main/the_goods/cool-crying:.png" width="20vw" />) to find the error and then fix it with only one line of code <img alt="GIF" src="https://github.com/Denver-Devs/emojis/blob/main/the_goods/slowclap:.gif" width="20vw" />*
 
- ## 🛠️ 👩‍💻 Languages & Frameworks & Database:
+ ## 🛠️ 👩‍💻 Languages & Frameworks & Databases:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
