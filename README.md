@@ -10,8 +10,11 @@ My name is *Andrijana Papić* and I am a master's student at Faculty of Technica
 
 - 🌱 I’m currently learning ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;, ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;, ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; and... everything :sweat_smile:
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-andrijanapapic98@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrijanapapic98@gmail.com)](mailto:andrijanapapic98@gmail.com) or [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/andrijana-papi%C4%87-7b3643227/) <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="45vw" />
-- ⚡ Fun facts:
-<div align="center"> You know you're a true programmer when you spend a more day to find the error and then fix it with only one line of code. </div>
+- ⚡ Fun facts: <br>
+
+*You know you're a true programmer when you spend a more day to find the error and then fix it with only one line of code.*
+
+![rsz_1_mebmmjqum2nvn7unzxcchg (1)](https://user-images.githubusercontent.com/61964257/145493553-a9e99055-70d5-4acd-bb78-405de202a02d.jpg) 
 
  ## 🛠️ 👩‍💻 Languages & Tools:
 
@@ -33,4 +36,6 @@ My name is *Andrijana Papić* and I am a master's student at Faculty of Technica
 
 :point_right: Visitors count: ![Visitor Count](https://profile-counter.glitch.me/Anndrijana/count.svg)
 
-### <img alt="GIF" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-good-morning-reverse.png" width="35vw" /> Welcome aboard my code station... :point_down: 
+## <img alt="GIF" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-good-morning-reverse.png" width="35vw" /> Welcome aboard my code station... :point_down: </br>
+<div align="center">
+<img alt="GIF" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/coffee.gif" width="250vw" /> </div>
