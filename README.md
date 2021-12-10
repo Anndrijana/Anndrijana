@@ -1,12 +1,10 @@
-<h2 align="center"><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 😁</h2>
-
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 35%" /> </div>
 
-## <img alt="GIF" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-sun-glasses-gif.gif" width="35vw" /> More about me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF1515&center=true&vCenter=true&width=1000&height=100&lines=My+name+is+Andrijana+Papi%C4%87...;Nice+to+meet+you!+%F0%9F%98%81)](https://git.io/typing-svg)
+## <img alt="GIF" src="https://github.com/seanprashad/slackmoji/blob/master/emoji/blob/blob-sun-glasses-gif.gif" width="35vw" /> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> More about me:
 
-- <img alt="GIF" src="https://github.com/Denver-Devs/emojis/blob/main/the_goods/woman-with-computer:.png" width="20vw" /> My name is *Andrijana Papić* and I'm a master's student at Faculty of Technical Sciences majoring in Information Systems Engineering
-
+- <img alt="GIF" src="https://github.com/Denver-Devs/emojis/blob/main/the_goods/woman-with-computer:.png" width="20vw" /> I'm currently studying for a master's degree at Faculty of Technical Sciences majoring in Information Systems Engineering
 - :coffee: I'm currently drinking coffee and coding or sleeping :sleeping:
 <img alt="GIF" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/coffee.gif" width="150vw" /> </div>
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif?ref=https://githubhelp.com" width="25vw" /> I’m currently learning ![NodeJS](https://img.shields.io/badge/NODEJS-339933.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;, ![NestJS](https://img.shields.io/badge/NESTJS-E0234E.svg?&style=flat&logo=nestjs&logoColor=white)&nbsp;, ![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp; and... everything :sweat_smile:
