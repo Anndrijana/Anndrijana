@@ -19,6 +19,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/C-00599C?logo=c&style=social)&nbsp;&nbsp;
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&style=social)&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![JSON](https://img.shields.io/badge/json-5E5C5C?logo=json&style=social)&nbsp;&nbsp;
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&style=social)&nbsp;&nbsp;
